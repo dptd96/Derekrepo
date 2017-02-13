@@ -1,0 +1,63 @@
+body {
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url("bk.png");
+    background-repeat: no-repeat;
+    background-size: 1710px;
+}
+
+
+h1 {
+	line-height: 60px; 
+    color: white;
+    font: helvetica;
+    text-align: center;
+}
+
+h2 {
+	line-height: 60px; 
+    color: white;
+    font: helvetica;
+    text-align: center;
+}
+
+h3 {
+	line-height: 60px; 
+    color: white;
+    font: helvetica;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font: helvetica;
+    text-align: left;
+}
+
+ol {
+	color: white;
+    font: helvetica;
+}
+
+ul {
+	color: white;
+    font: helvetica;
+}
+
+a:link {
+    float: left;
+    color: white;
+    font: helvetica;
+    padding: 10px 15px;
+    text-align: center; 
+    display:inline-block;
+}
+
+a{ color: white; }
+
+img {
+	display: block;
+    border-radius: 60%;
+    margin: auto;
+}
